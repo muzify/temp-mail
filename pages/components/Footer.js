@@ -4,7 +4,7 @@ const Footer = () => {
     <>
     <footer>
         <div className="text-light py-1 text-center font-boo">
-        <p>Made with<span className="fs-4 text-danger mx-2 heart-icon ">❤</span>by Umer Aziz</p>
+        <p>Made with<span className="fs-4 text-danger mx-2 heart-icon ">❤</span>by TempyMail</p>
         </div>
         </footer>
     </>
